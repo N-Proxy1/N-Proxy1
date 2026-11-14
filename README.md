@@ -65,12 +65,14 @@ Mi objetivo es integrarme a equipos de **Corporate Finance** o **análisis de in
 
 ## 📊 Proyectos
 
-> 🚧 Próximamente: estoy documentando mis proyectos y los publicaré aquí con su problema, datos, método y conclusiones.
+> 🚧 **En desarrollo:** estoy construyendo proyectos de análisis financiero con Power BI, SQL, Python y Excel. Los publicaré aquí con su pregunta de negocio, datos, método y conclusiones.
 
-| Proyecto | Qué resuelve | Herramientas | Estado |
-|:--|:--|:--|:--:|
-| Dashboard de tipo de cambio | Seguimiento del dólar observado y su variación mensual | Power BI, DAX | 🔜 |
-| Dashboard de costo de ventas vs. captura | Relación entre costos y contracción de captura | Power BI, DAX | 🔜 |
+| Área de proyecto | Enfoque | Herramientas |
+|:--|:--|:--|
+| 🧮 Estados financieros | Análisis de razones de liquidez, endeudamiento y rentabilidad | Excel, Python |
+| 🔗 Automatización de datos | Limpieza, cruce y conciliación de datos financieros | SQL, Python |
+| 🏦 Inversiones y automatización | Análisis de desempeño de activos y automatización de su seguimiento y comparación de retornos | Python, Excel |
+| 🛡️ Control de riesgo | Seguimiento de indicadores de riesgo y exposición financiera | Power BI, Excel |
 
 ---
 
@@ -78,34 +80,13 @@ Mi objetivo es integrarme a equipos de **Corporate Finance** o **análisis de in
 
 - 🎓 **Ingeniería Comercial**, Universidad Tecnológica Metropolitana (UTEM), en curso
 - 📜 **Análisis de datos**, Academia IPSDATAX
+  <br><br>
+  <img width="500" height="350" alt="Certificado_Analisis_De_Datos_curso" src="https://github.com/user-attachments/assets/777458bd-c731-40fc-8289-d18e2d8a3a9e" />
+
 - 📜 **IA para Excel**, Academia IPSDATAX
+  <br><br>
+  <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/ecd71e28-391c-4d5c-abfc-8354110a6a61" />
 
-### 📜 Certificados
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="assets/certificados/certificado-analisis-datos.png">
-        <img src="assets/certificados/certificado-analisis-datos.png" width="360" alt="Certificado Análisis de datos, Academia IPSDATAX"/>
-      </a>
-      <br/>
-      <sub><b>Análisis de datos</b> · Academia IPSDATAX</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="assets/certificados/certificado-ia-excel.png">
-        <img src="assets/certificados/certificado-ia-excel.png" width="360" alt="Certificado IA para Excel, Academia IPSDATAX"/>
-      </a>
-      <br/>
-      <sub><b>IA para Excel</b> · Academia IPSDATAX</sub>
-    </td>
-  </tr>
-</table>
-
-<sub>Haz clic en cada certificado para verlo completo.</sub>
-
-</div>
 
 ---
 
@@ -119,5 +100,9 @@ Si tienes una oportunidad en análisis de datos o finanzas, escríbeme.
 <a href="https://github.com/N-Proxy1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/nproxy.dxd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:jnunezm@utem.cl"><img src="https://img.shields.io/badge/Correo_UTEM-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
