@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=220&section=header&text=Jonathan%20N%C3%BA%C3%B1ez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Datos%20aplicados%20a%20finanzas%20e%20inversiones&descAlignY=60&descSize=20" width="100%" alt="header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+Comercial;Especializaci%C3%B3n+en+Finanzas+%E2%80%94+UTEM;Busco+convertir+datos+en+decisiones+financieras" alt="Typing SVG" />
+<a href="https://github.com/N-Proxy1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&height=80&lines=Jonathan+N%C3%BA%C3%B1ez" alt="Jonathan Núñez" />
 </a>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=22C55E&center=true&vCenter=true&width=800&height=40&lines=%E2%96%B2+Datos+%C2%B7+%E2%96%B2+Finanzas+%C2%B7+%E2%96%B2+Inversiones+%C2%B7+%E2%96%B2+Decisiones" alt="Ticker financiero" />
+
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=35&lines=Estudiante+de+Ingenier%C3%ADa+Comercial+%E2%80%94+UTEM;Especializaci%C3%B3n+en+Finanzas;Busco+convertir+datos+en+decisiones+financieras" alt="Subtítulo animado" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-n%C3%BA%C3%B1ez-092178417/)
 [![GitHub](https://img.shields.io/badge/GitHub-N--Proxy1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-Proxy1)
@@ -57,51 +61,4 @@ Mi objetivo es integrarme a equipos de **Corporate Finance** o **análisis de in
 
 ## 📊 Proyectos
 
-> 🚧 Próximamente: estoy documentando mis proyectos y los publicaré aquí con su problema, datos, método y conclusiones.
-
-| Proyecto | Qué resuelve | Herramientas | Estado |
-|:--|:--|:--|:--:|
-| Dashboard de tipo de cambio | Seguimiento del dólar observado y su variación mensual | Power BI, DAX | 🔜 |
-| Dashboard de costo de ventas vs. captura | Relación entre costos y contracción de captura | Power BI, DAX | 🔜 |
-
----
-
-## 🎓 Formación y certificaciones
-
-- 🎓 **Ingeniería Comercial**, Universidad Tecnológica Metropolitana (UTEM), en curso
-- 📜 **Análisis de datos**, Academia IPSDATAX
-- 📜 **IA para Excel**, Academia IPSDATAX
-
----
-
-## 📈 Actividad en GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-Proxy1&theme=github-compact&hide_border=true&area=true&custom_title=Contribuciones%20en%20GitHub" alt="Gráfico de actividad" width="100%"/>
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=N-Proxy1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Proxy1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=N-Proxy1&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de contribuciones" height="170"/>
-
-</div>
-
-<div align="center">
-
-### 📫 ¿Conversamos?
-
-Si tienes una oportunidad en análisis de datos o finanzas, escríbeme.
-
-<a href="https://www.linkedin.com/in/jonathan-n%C3%BA%C3%B1ez-092178417/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/N-Proxy1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.instagram.com/nproxy.dxd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="mailto:jnunezm@utem.cl"><img src="https://img.shields.io/badge/Correo_UTEM-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=100&section=footer"
+> 🚧 Próximamente: estoy documentando mis proyectos y los
