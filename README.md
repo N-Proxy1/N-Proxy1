@@ -1,14 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/N-Proxy1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&height=80&lines=Jonathan+N%C3%BA%C3%B1ez" alt="Jonathan Núñez" />
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=22C55E&center=true&vCenter=true&width=800&height=40&lines=%E2%96%B2+Datos+%C2%B7+%E2%96%B2+Finanzas+%C2%B7+%E2%96%B2+Inversiones+%C2%B7+%E2%96%B2+Decisiones" alt="Ticker financiero" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=35&lines=Estudiante+de+Ingenier%C3%ADa+Comercial+%E2%80%94+UTEM;Especializaci%C3%B3n+en+Finanzas;Busco+convertir+datos+en+decisiones+financieras" alt="Subtítulo animado" />
+<img src="https://raw.githubusercontent.com/N-Proxy1/N-Proxy1/main/assets/cabecera-finanzas.svg" width="100%" alt="Jonathan Núñez - Datos aplicados a finanzas"/>
 
 <br/><br/>
 
@@ -37,6 +29,18 @@ Mi objetivo es integrarme a equipos de **Corporate Finance** o **análisis de in
 ![Power BI](https://img.shields.io/badge/Power_BI-Intermedio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-B%C3%A1sico-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-En_aprendizaje-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Idiomas
+
+<div align="center">
+
+![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-Biling%C3%BCe-7C3AED?style=for-the-badge)
+
+<sub>Comunicación profesional fluida, tanto escrita como oral.</sub>
 
 </div>
 
@@ -74,14 +78,34 @@ Mi objetivo es integrarme a equipos de **Corporate Finance** o **análisis de in
 
 - 🎓 **Ingeniería Comercial**, Universidad Tecnológica Metropolitana (UTEM), en curso
 - 📜 **Análisis de datos**, Academia IPSDATAX
-  <br><br>
-  <img width="500" height="400" alt="Certificado_Analisis_De_Datos_curso" src="https://github.com/user-attachments/assets/db90f390-782d-446a-b9c3-3734f9e12326" />
-
 - 📜 **IA para Excel**, Academia IPSDATAX
-  <br><br>
-  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/110b4029-1d0a-4ee3-8e34-09461d1ba54c" />
-  
 
+### 📜 Certificados
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="assets/certificados/certificado-analisis-datos.png">
+        <img src="assets/certificados/certificado-analisis-datos.png" width="360" alt="Certificado Análisis de datos, Academia IPSDATAX"/>
+      </a>
+      <br/>
+      <sub><b>Análisis de datos</b> · Academia IPSDATAX</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="assets/certificados/certificado-ia-excel.png">
+        <img src="assets/certificados/certificado-ia-excel.png" width="360" alt="Certificado IA para Excel, Academia IPSDATAX"/>
+      </a>
+      <br/>
+      <sub><b>IA para Excel</b> · Academia IPSDATAX</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Haz clic en cada certificado para verlo completo.</sub>
+
+</div>
 
 ---
 
@@ -95,9 +119,5 @@ Si tienes una oportunidad en análisis de datos o finanzas, escríbeme.
 <a href="https://github.com/N-Proxy1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/nproxy.dxd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:jnunezm@utem.cl"><img src="https://img.shields.io/badge/Correo_UTEM-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
