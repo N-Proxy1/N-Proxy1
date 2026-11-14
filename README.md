@@ -61,4 +61,43 @@ Mi objetivo es integrarme a equipos de **Corporate Finance** o **análisis de in
 
 ## 📊 Proyectos
 
-> 🚧 Próximamente: estoy documentando mis proyectos y los
+> 🚧 Próximamente: estoy documentando mis proyectos y los publicaré aquí con su problema, datos, método y conclusiones.
+
+| Proyecto | Qué resuelve | Herramientas | Estado |
+|:--|:--|:--|:--:|
+| Dashboard de tipo de cambio | Seguimiento del dólar observado y su variación mensual | Power BI, DAX | 🔜 |
+| Dashboard de costo de ventas vs. captura | Relación entre costos y contracción de captura | Power BI, DAX | 🔜 |
+
+---
+
+## 🎓 Formación y certificaciones
+
+- 🎓 **Ingeniería Comercial**, Universidad Tecnológica Metropolitana (UTEM), en curso
+- 📜 **Análisis de datos**, Academia IPSDATAX
+  <br><br>
+  <img width="500" height="400" alt="Certificado_Analisis_De_Datos_curso" src="https://github.com/user-attachments/assets/db90f390-782d-446a-b9c3-3734f9e12326" />
+
+- 📜 **IA para Excel**, Academia IPSDATAX
+  <br><br>
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/110b4029-1d0a-4ee3-8e34-09461d1ba54c" />
+  
+
+
+---
+
+<div align="center">
+
+### 📫 ¿Conversamos?
+
+Si tienes una oportunidad en análisis de datos o finanzas, escríbeme.
+
+<a href="https://www.linkedin.com/in/jonathan-n%C3%BA%C3%B1ez-092178417/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/N-Proxy1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/nproxy.dxd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="mailto:jnunezm@utem.cl"><img src="https://img.shields.io/badge/Correo_UTEM-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=100&section=footer" width="100%" alt="footer"/>
+
+</div>
